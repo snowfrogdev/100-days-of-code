@@ -23,14 +23,17 @@ I'm almost done with the first version of my cli tool. I'll add a bit of polish,
 ### Link(s) to work
 
 1. [RNA Transcription](https://github.com/snowfrogdev/Exercism/tree/master/typescript/rna-transcription)
-2. [vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
+2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
 
 ## Day 3: April 24, Wednesday
 
-**Today's Progress**: Solved the 'Ghost Legs' puzzle on [condingame.com](https://condingame.com).
+**Today's Progress**: Solved the 'Ghost Legs' puzzle on [condingame.com](https://condingame.com). Polished my Vts CLI project and published it on NPM (vts-cli).
 
 **Thoughts** An interesting puzzle to solze. It took me awhile to wrap my head around the problem space but once I figured a strategy to solve the problem it was relatively easy to solve. Spent almost 20 minutes refactoring afterwards to make it more readable.
+
+I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool and it was a real pleasure to use. Very easy to learn and quite powerful. I'm looking forward to automating alot of stuff with this little tool.
 
 ### Link(s) to work
 
 1. [Ghost Legs](https://github.com/snowfrogdev/codingame/blob/master/ghost_legs/src/main.ts)
+2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
