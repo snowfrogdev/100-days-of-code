@@ -37,3 +37,13 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 1. [Ghost Legs](https://github.com/snowfrogdev/codingame/blob/master/ghost_legs/src/main.ts)
 2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
+
+## Day 4: April 25, Thursday
+
+**Today's Progress**: Started working on the LUMEN puzzle on [condingame.com](https://condingame.com).
+
+**Thoughts** Ran into some weird problems with the way Rollup seemed to output my TS code. Will have to look into that.
+
+### Link(s) to work
+
+1. [Lumen](https://github.com/snowfrogdev/codingame/blob/master/lumen/src/main.ts)
