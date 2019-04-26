@@ -27,7 +27,7 @@ I'm almost done with the first version of my cli tool. I'll add a bit of polish,
 
 ## Day 3: April 24, Wednesday
 
-**Today's Progress**: Solved the 'Ghost Legs' puzzle on [condingame.com](https://condingame.com). Polished my Vts CLI project and published it on NPM (vts-cli).
+**Today's Progress**: Solved the 'Ghost Legs' puzzle on [codingame.com](https://codingame.com). Polished my Vts CLI project and published it on NPM (vts-cli).
 
 **Thoughts** An interesting puzzle to solze. It took me awhile to wrap my head around the problem space but once I figured a strategy to solve the problem it was relatively easy to solve. Spent almost 20 minutes refactoring afterwards to make it more readable.
 
@@ -40,7 +40,7 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 4: April 25, Thursday
 
-**Today's Progress**: Started working on the LUMEN puzzle on [condingame.com](https://condingame.com). Pushed version 1.1.0 of Vts-CLI to NPM. Added the option to setup a web project using parcel as a bundler.
+**Today's Progress**: Started working on the LUMEN puzzle on [codingame.com](https://codingame.com). Pushed version 1.1.0 of Vts-CLI to NPM. Added the option to setup a web project using parcel as a bundler.
 
 **Thoughts** Ran into some weird problems with the way Rollup seemed to output my TS code. Will have to look into that.
 
@@ -48,3 +48,13 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 1. [Lumen](https://github.com/snowfrogdev/codingame/blob/master/lumen/src/main.ts)
 2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
+
+## Day 5: April 26, Friday
+
+**Today's Progress**: Solved the LUMEN puzzle on [codingame.com](https://codingame.com).
+
+**Thoughts** Got a little lazy with the refactoring, but all in all I'm pleased with the solution I used for this puzzle. Recursion for the win!
+
+### Link(s) to work
+
+1. [Lumen](https://github.com/snowfrogdev/codingame/blob/master/lumen/src/main.ts)
