@@ -51,10 +51,11 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 5: April 26, Friday
 
-**Today's Progress**: Solved the LUMEN puzzle on [codingame.com](https://codingame.com).
+**Today's Progress**: Solved the LUMEN puzzle on [codingame.com](https://codingame.com). Refactored some of Vts-CLI's code.
 
-**Thoughts** Got a little lazy with the refactoring, but all in all I'm pleased with the solution I used for this puzzle. Recursion for the win!
+**Thoughts** Got a little lazy with the refactoring, but all in all I'm pleased with the solution I have used for this puzzle. Recursion for the win!
 
 ### Link(s) to work
 
 1. [Lumen](https://github.com/snowfrogdev/codingame/blob/master/lumen/src/main.ts)
+2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
