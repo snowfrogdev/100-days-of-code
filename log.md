@@ -69,3 +69,14 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 ### Link(s) to work
 
 1. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
+
+## Day 7: April 28, Sunday
+
+**Today's Progress**: Made a mockup of QTsum, a Quentin Tarantino themed placeholder text generator inspired by [Jeffsum](https://jeffsum.com/) and started writing the html and css.
+
+**Thoughts** I need to get better at CSS. It's the only tech where I seem to have a hard time remembering what does what. There's just so many options.
+
+### Link(s) to work
+
+1. [QTsum mockup](https://www.figma.com/file/Bsq93tgHutCp8VSEvtI8Nyfy/QT-ipsum?node-id=0%3A1)
+2. [QTsum repo](https://github.com/snowfrogdev/qtsum)
