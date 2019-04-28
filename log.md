@@ -59,3 +59,13 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 1. [Lumen](https://github.com/snowfrogdev/codingame/blob/master/lumen/src/main.ts)
 2. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
+
+## Day 6: April 27, Saturday
+
+**Today's Progress**: Refactored the `new` command in Vts-CLI's using the Chain of Responsibility pattern.
+
+**Thoughts** Implementing the CoR pattern was fun and I learned a lot. Hesitated between CoR and Builder pattern. Time will tell if I made the right choice.
+
+### Link(s) to work
+
+1. [Vts - Vanilla TypeScript Starter](https://github.com/snowfrogdev/vts)
