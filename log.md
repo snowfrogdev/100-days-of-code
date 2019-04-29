@@ -80,3 +80,14 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 1. [QTsum mockup](https://www.figma.com/file/Bsq93tgHutCp8VSEvtI8Nyfy/QT-ipsum?node-id=0%3A1)
 2. [QTsum repo](https://github.com/snowfrogdev/qtsum)
+
+## Day 8: April 29, Monday
+
+**Today's Progress**: Worked through the 'Protein translation', 'Nucleotide count and started the 'Allergies' exercises on [exercism.io](https://exercism.io).
+
+**Thoughts** I had fun working on these relatively simple exercises. I ended learning about TS index signatures.
+
+### Link(s) to work
+
+1. [Protein translation](https://github.com/snowfrogdev/Exercism/blob/master/typescript/protein-translation/protein-translation.ts)
+2. [Nucleotide count](https://github.com/snowfrogdev/Exercism/blob/master/typescript/nucleotide-count/nucleotide-count.ts)
