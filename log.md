@@ -83,11 +83,12 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 8: April 29, Monday
 
-**Today's Progress**: Worked through the 'Protein translation', 'Nucleotide count and started the 'Allergies' exercises on [exercism.io](https://exercism.io).
+**Today's Progress**: Worked through the 'Protein translation', 'Nucleotide count and started the 'Allergies' exercises on [exercism.io](https://exercism.io). Started working on a CLI to automatically download and run tests on student exercises on exercism.io. I call it xmentor for now.
 
-**Thoughts** I had fun working on these relatively simple exercises. I ended learning about TS index signatures.
+**Thoughts** I had fun working on these relatively simple exercises. I ended learning about TS index signatures. Making CLI tools is a lot of fun. I just love automating stuff.
 
 ### Link(s) to work
 
 1. [Protein translation](https://github.com/snowfrogdev/Exercism/blob/master/typescript/protein-translation/protein-translation.ts)
 2. [Nucleotide count](https://github.com/snowfrogdev/Exercism/blob/master/typescript/nucleotide-count/nucleotide-count.ts)
+3. [xmentor](https://github.com/snowfrogdev/xmentor)
