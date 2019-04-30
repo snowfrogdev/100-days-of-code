@@ -83,7 +83,7 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 8: April 29, Monday
 
-**Today's Progress**: Worked through the 'Protein translation', 'Nucleotide count and started the 'Allergies' exercises on [exercism.io](https://exercism.io). Started working on a CLI to automatically download and run tests on student exercises on exercism.io. I call it xmentor for now.
+**Today's Progress**: Worked through the 'Protein translation', 'Nucleotide count' and started the 'Allergies' exercises on [exercism.io](https://exercism.io). Started working on a CLI to automatically download and run tests on student exercises on exercism.io. I call it xmentor for now.
 
 **Thoughts** I had fun working on these relatively simple exercises. I ended learning about TS index signatures. Making CLI tools is a lot of fun. I just love automating stuff.
 
@@ -92,3 +92,15 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 1. [Protein translation](https://github.com/snowfrogdev/Exercism/blob/master/typescript/protein-translation/protein-translation.ts)
 2. [Nucleotide count](https://github.com/snowfrogdev/Exercism/blob/master/typescript/nucleotide-count/nucleotide-count.ts)
 3. [xmentor](https://github.com/snowfrogdev/xmentor)
+
+## Day 9: April 30, Tuesday
+
+**Today's Progress**: Finished the 'Allergies', 'Raindrops' and 'ETL' exercises on [exercism.io](https://exercism.io).
+
+**Thoughts** The 'Allergies' exercise was the first time I had to use a bitmask and bitwise operations. I'm glad I got to learn about it because I can see myself reaching for this in the future.
+
+### Link(s) to work
+
+1. [Allergies](https://github.com/snowfrogdev/Exercism/blob/master/typescript/allergies/allergies.ts)
+2. [Raindrops](https://github.com/snowfrogdev/Exercism/tree/master/typescript/raindrops)
+3. [ETL](https://github.com/snowfrogdev/Exercism/tree/master/typescript/etl)
