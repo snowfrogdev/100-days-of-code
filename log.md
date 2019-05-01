@@ -95,12 +95,13 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 9: April 30, Tuesday
 
-**Today's Progress**: Finished the 'Allergies', 'Raindrops' and 'ETL' exercises on [exercism.io](https://exercism.io).
+**Today's Progress**: Finished the 'Allergies', 'Raindrops' and 'ETL' exercises on [exercism.io](https://exercism.io). Finished work on xmentor CLI.
 
-**Thoughts** The 'Allergies' exercise was the first time I had to use a bitmask and bitwise operations. I'm glad I got to learn about it because I can see myself reaching for this in the future.
+**Thoughts** The 'Allergies' exercise was the first time I had to use a bitmask and bitwise operations. I'm glad I got to learn about it because I can see myself reaching for this in the future. Thanks to [gluegun](https://infinitered.github.io/gluegun/) I think making CLI tools has the dangerous potential of becoming like a drug to me.
 
 ### Link(s) to work
 
 1. [Allergies](https://github.com/snowfrogdev/Exercism/blob/master/typescript/allergies/allergies.ts)
 2. [Raindrops](https://github.com/snowfrogdev/Exercism/tree/master/typescript/raindrops)
 3. [ETL](https://github.com/snowfrogdev/Exercism/tree/master/typescript/etl)
+4. [xmentor](https://github.com/snowfrogdev/xmentor)
