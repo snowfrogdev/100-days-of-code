@@ -105,3 +105,15 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 2. [Raindrops](https://github.com/snowfrogdev/Exercism/tree/master/typescript/raindrops)
 3. [ETL](https://github.com/snowfrogdev/Exercism/tree/master/typescript/etl)
 4. [xmentor](https://github.com/snowfrogdev/xmentor)
+
+## Day 10: May 1, Wednesday
+
+**Today's Progress**: Worked through the 'Hamming', 'Scrabble Score' and 'Space Age' exercises on [exercism.io](https://exercism.io).
+
+**Thoughts** 'Scrabble Score' was interesting. It was the first time I got to use a Map with keys of type Array.
+
+### Link(s) to work
+
+1. [Hamming](https://github.com/snowfrogdev/Exercism/tree/master/typescript/hamming)
+2. [Scrabble Score](https://github.com/snowfrogdev/Exercism/tree/master/typescript/scrabble-score)
+3. [Space Age](https://github.com/snowfrogdev/Exercism/tree/master/typescript/space-age)
