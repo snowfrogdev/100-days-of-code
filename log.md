@@ -126,5 +126,5 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ### Link(s) to work
 
-1. [Dashiell's problem](https://simbi.com/dashiell-bark-huss/math-help-dashiell)
+1. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
 2. [Robbery Optimisation](https://github.com/snowfrogdev/codingame/tree/master/robbery-optimisation)
