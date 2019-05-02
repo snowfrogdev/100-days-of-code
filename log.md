@@ -117,3 +117,14 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 1. [Hamming](https://github.com/snowfrogdev/Exercism/tree/master/typescript/hamming)
 2. [Scrabble Score](https://github.com/snowfrogdev/Exercism/tree/master/typescript/scrabble-score)
 3. [Space Age](https://github.com/snowfrogdev/Exercism/tree/master/typescript/space-age)
+
+## Day 11: May 2, Thursday
+
+**Today's Progress**: Worked on solving an optimisation problem for [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128) and the ['Robbery Optimisation'](https://www.codingame.com/training/easy/robbery-optimisation) puzzle on codingame.com.
+
+**Thoughts** Both problems were a bit harder to solve than I initally thought. Sometimes you need to take a step back and really think things through. Watching me do a lot of thinking out loud and very little coding probably didn't make for the most interesting live coding session on Twitch.
+
+### Link(s) to work
+
+1. [Dashiell's problem](https://simbi.com/dashiell-bark-huss/math-help-dashiell)
+2. [Robbery Optimisation](https://github.com/snowfrogdev/codingame/tree/master/robbery-optimisation)
