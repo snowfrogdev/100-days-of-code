@@ -120,7 +120,7 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 11: May 2, Thursday
 
-**Today's Progress**: Worked on solving an optimisation problem for [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128) and the ['Robbery Optimisation'](https://www.codingame.com/training/easy/robbery-optimisation) puzzle on codingame.com.
+**Today's Progress**: Worked on solving an optimisation problem for [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128) and the ['Robbery Optimisation'](https://www.codingame.com/training/easy/robbery-optimisation) puzzle on codingame.com. Refreshed my understanding of the Hill Climbing algorithm.
 
 **Thoughts** Both problems were a bit harder to solve than I initally thought. Sometimes you need to take a step back and really think things through. Watching me do a lot of thinking out loud and very little coding probably didn't make for the most interesting live coding session on Twitch.
 
