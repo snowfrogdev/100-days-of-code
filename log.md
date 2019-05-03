@@ -128,3 +128,13 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 1. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
 2. [Robbery Optimisation](https://github.com/snowfrogdev/codingame/tree/master/robbery-optimisation)
+
+## Day 12: May 3, Friday
+
+**Today's Progress**: Worked some more on the optimisation problem submitted by [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128). I added the Random Restart meta-algorithm and am quite pleased with the results.
+
+**Thoughts** Algorithms are so much fun. I can understand why people would want to work on games instead of web apps. I often feen like they are mostly about CRUD operations and very little interesting business logic. Tomorrow, I'll implement Stochastic Hill-Climbing instead of Steepest Ascent Hill Climbing, which is what I'm using at the moment, and see if it'll improve the results even more.
+
+### Link(s) to work
+
+1. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
