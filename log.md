@@ -120,7 +120,7 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 11: May 2, Thursday
 
-**Today's Progress**: Worked on solving an optimisation problem for [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128) and the ['Robbery Optimisation'](https://www.codingame.com/training/easy/robbery-optimisation) puzzle on codingame.com. Refreshed my understanding of the Hill Climbing algorithm.
+**Today's Progress**: Worked on solving an optimization problem for [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128) and the ['Robbery Optimisation'](https://www.codingame.com/training/easy/robbery-optimisation) puzzle on codingame.com. Refreshed my understanding of the Hill Climbing algorithm.
 
 **Thoughts** Both problems were a bit harder to solve than I initally thought. Sometimes you need to take a step back and really think things through. Watching me do a lot of thinking out loud and very little coding probably didn't make for the most interesting live coding session on Twitch.
 
@@ -131,9 +131,19 @@ I used [Gluegun](https://infinitered.github.io/gluegun/#/) to make the CLI tool 
 
 ## Day 12: May 3, Friday
 
-**Today's Progress**: Worked some more on the optimisation problem submitted by [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128). I added the Random Restart meta-algorithm and am quite pleased with the results.
+**Today's Progress**: Worked some more on the optimization problem submitted by [@DashBarkHuss](https://twitter.com/DashBarkHuss/status/1123733614108336128). I added the Random Restart meta-algorithm and am quite pleased with the results.
 
 **Thoughts** Algorithms are so much fun. I can understand why people would want to work on games instead of web apps. I often feen like they are mostly about CRUD operations and very little interesting business logic. Tomorrow, I'll implement Stochastic Hill-Climbing instead of Steepest Ascent Hill Climbing, which is what I'm using at the moment, and see if it'll improve the results even more.
+
+### Link(s) to work
+
+1. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
+
+## Day 13: May 4, Saturday
+
+**Today's Progress**: Added early stopping to the Hill Climbing algorithm used in the Macronutrients optimiser. The algorithm will now stop if a certain time limit has been reached or if a result of a certain presicion has been reached. Also implemented a minimum weight for ingredients to avoid recipes where ingredients were set to 0 grams.
+
+**Thoughts** The class is starting to get a little to be for my taste, I'm going to have to refactor soon as I keep adding functionality. I'm also going to have to implement some tests, didn't exactly develop this TDD style.
 
 ### Link(s) to work
 
