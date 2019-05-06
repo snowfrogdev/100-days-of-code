@@ -2,13 +2,14 @@
 
 ## Day 15: May 6, Monday
 
-**Today's Progress**: Solved the 'Max Rect' puzzle on codingame.com. Ended up using the Hill Climbing algorithm I have been using on another project. Beats having to try to reason with 5 nested loops.
+**Today's Progress**: Solved the 'Max Rect' puzzle on codingame.com. Ended up using the Hill Climbing algorithm I have been using on another project. Beats having to try to reason with 5 nested loops. Added WebWorker to demo of Macronutrients Optimiser.
 
 **Thoughts** I really enjoy using these stochastic algorithms to solve problems. They are much more fun to code and use than pure brute force or mathematical algorithms. Why do all this hard worl to try to find the best answer when you can let the computer do the work and find a good enough answer. It's a very pragmatic way of solving problems.
 
 ### Link(s) to work
 
 1. [Robbery Optimisation](https://github.com/snowfrogdev/codingame/tree/master/max-rect)
+2. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
 
 ## Day 14: May 5, Sunday
 
