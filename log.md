@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 14: May 5, Sunday
+
+**Today's Progress**: Built a demo of a small 'app' that uses my Macro Nutrients Optimizer algorithm.
+
+**Thoughts** Working in pure HTML and TS without a framework was eye opening. We often take for granted what front-end frameworks do for us. I wouldn't want to develop an entire app this way. Still, for very small throwaway projects like this, going vanilla makes sense.
+
+### Link(s) to work
+
+1. [Macronutrients Optimiser](https://github.com/snowfrogdev/macro-nutrients-optimizer)
+
 ## Day 13: May 4, Saturday
 
 **Today's Progress**: Added early stopping to the Hill Climbing algorithm used in the Macronutrients optimizer. The algorithm will now stop if a certain time limit has been reached or if a result of a certain presicion has been reached. Also implemented a minimum weight for ingredients to avoid recipes where ingredients were set to 0 grams.
