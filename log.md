@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 16: May 7, Tuesday
+
+**Today's Progress**: Solved the 'River I' and 'River II' puzzles on codingame.com. Used a `Set` to do some caching and optimise my solution.
+
+**Thoughts** This was the first time where I really saw a use for JS' relatively new `Set` data structure. At first, my solution was doing alot of duplicate computation. I introduced a cache using `Set` and dramatically improved my solution's performance.
+
+### Link(s) to work
+
+1. [The River I](https://github.com/snowfrogdev/codingame/tree/master/the-river-i)
+2. [The River II](https://github.com/snowfrogdev/codingame/tree/master/the-river-ii)
+
 ## Day 15: May 6, Monday
 
 **Today's Progress**: Solved the 'Max Rect' puzzle on codingame.com. Ended up using the Hill Climbing algorithm I have been using on another project. Beats having to try to reason with 5 nested loops. Added WebWorker to demo of Macronutrients Optimiser.
