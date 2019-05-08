@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 17: May 8, Wednesday
+
+**Today's Progress**: Solved the 'Bank Robbers' puzzle on codingame.com. Learned that `x * 2 ** y === x << y`.
+
+**Thoughts** It was fun to get reaquainted with permutations and combinations equations. Some of the 'easy' puzzles on codingame.com are not all that easy.
+
+### Link(s) to work
+
+1. [Bank Robbers](https://github.com/snowfrogdev/codingame/tree/master/bank-robbers)
+
 ## Day 16: May 7, Tuesday
 
 **Today's Progress**: Solved the 'River I' and 'River II' puzzles on codingame.com. Used a `Set` to do some caching and optimise my solution.
