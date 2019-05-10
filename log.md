@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 18: May 9, Thursday
+
+**Today's Progress**: Solved the 'Order of Succession' puzzle on codingame.com. Got to use a tree data structure and depth first search algorithm. It had been a while. Also wrote up a blog article on the left shift bitwise operator.
+
+**Thoughts** Writing blog articles really doesn't come easy. I can't help but feel that every subject has already been thoroughly written about. Yet, it does help cement in my mind  things I have just learned.
+
+### Link(s) to work
+
+1. [Order of Succession](https://github.com/snowfrogdev/codingame/tree/master/order-of-succession)
+2. [An introduction to the left shift bitwise operator](https://blog.snowfrog.dev/left-shift-bitwise-operator/)
+
 ## Day 17: May 8, Wednesday
 
 **Today's Progress**: Solved the 'Bank Robbers' puzzle on codingame.com. Learned that `x * 2 ** y === x << y`.
