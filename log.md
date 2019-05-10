@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 19: May 10, Friday
+
+**Today's Progress**: Worked on the 'Bender - Episode 1' puzzle on codingame.com. Learned about the state pattern.
+
+**Thoughts** The State pattern seems strange to me. On the surface it seems to encourage composition, but if you have many, many States that are similar to each other, you'll probably end up using some sort of inheritance hierarchy. Also, the tight coupling between the context and the states and between the states themselves makes me uneasy.  I could be wrong, I still have to play with the pattern to fully understand it.
+
+### Link(s) to work
+
+1. [Bender - Episode 1](https://github.com/snowfrogdev/codingame/tree/master/bender-1)
+
 ## Day 18: May 9, Thursday
 
 **Today's Progress**: Solved the 'Order of Succession' puzzle on codingame.com. Got to use a tree data structure and depth first search algorithm. It had been a while. Also wrote up a blog article on the left shift bitwise operator.
