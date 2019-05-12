@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 20: May 11, Saturday
+
+**Today's Progress**: Spent 2 and half hours mentoring on exercism.io but i guess that doesn't really count as coding. Started work on a tiny web app for my personal use. Played around with HTML forms and express.js server.
+
+**Thoughts** Mentoring on exercism.io is a lot of fun. I think I learn as much as I help others doing it.
+
+### Link(s) to work
+
+1. [Service Reporter](https://github.com/snowfrogdev/service-reporter)
+
 ## Day 19: May 10, Friday
 
 **Today's Progress**: Worked on the 'Bender - Episode 1' puzzle on codingame.com. Learned about the state pattern.
