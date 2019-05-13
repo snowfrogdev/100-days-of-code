@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 21: May 12, Sunday
+
+**Today's Progress**: Added MongoDB connection and models using Mongoose and Typegoose.
+
+**Thoughts** Getting my mandatory one hour of coding in is much harder on weekends. Still, pretty happy I haven't missed a day yet.
+
+### Link(s) to work
+
+1. [Service Reporter](https://github.com/snowfrogdev/service-reporter)
+
 ## Day 20: May 11, Saturday
 
-**Today's Progress**: Spent 2 and half hours mentoring on exercism.io but i guess that doesn't really count as coding. Started work on a tiny web app for my personal use. Played around with HTML forms and express.js server.
+**Today's Progress**: Spent 2 and half hours mentoring on exercism.io but I guess that doesn't really count as coding. Started work on a tiny web app for my personal use. Played around with HTML forms and express.js server.
 
 **Thoughts** Mentoring on exercism.io is a lot of fun. I think I learn as much as I help others doing it.
 
