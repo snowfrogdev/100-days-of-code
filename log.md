@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 22: May 13, Friday
+
+**Today's Progress**: Worked on the 'Bender - Episode 1' puzzle on codingame.com. Mostly refactoring stuff. Gave up trying to use the State pattern.
+
+**Thoughts** These past two days have been rough. I get frustrated when I don't have enough time to code and I hate having to stop half way through something. Context switching is a b****.
+
+### Link(s) to work
+
+1. [Bender - Episode 1](https://github.com/snowfrogdev/codingame/tree/master/bender-1)
+
 ## Day 21: May 12, Sunday
 
 **Today's Progress**: Added MongoDB connection and models using Mongoose and Typegoose.
