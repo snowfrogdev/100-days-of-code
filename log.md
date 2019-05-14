@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 22: May 13, Friday
+## Day 23: May 14, Tuesday
+
+**Today's Progress**: Set up testing and debugging in VSCode for my codingame projects.
+
+**Thoughts** The debugger in VSCode is truly amazing. Not necessarily the easiest thing to configure when you have special cases like running jest on TypeScript code but still, I'm impressed.
+
+### Link(s) to work
+
+1. [Bender - Episode 1](https://github.com/snowfrogdev/codingame/tree/master/bender-1)
+
+## Day 22: May 13, Monday
 
 **Today's Progress**: Worked on the 'Bender - Episode 1' puzzle on codingame.com. Mostly refactoring stuff. Gave up trying to use the State pattern.
 
