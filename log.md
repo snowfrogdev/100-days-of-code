@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 24: May 15, Wednessday
+
+**Today's Progress**: Made really good progress with the 'Bender - Episode 1' today.
+
+**Thoughts** Live coding on Twitch can be a lot of fun. Especially when fellow coders drop by and interact.
+
+### Link(s) to work
+
+1. [Bender - Episode 1](https://github.com/snowfrogdev/codingame/tree/master/bender-1)
+
 ## Day 23: May 14, Tuesday
 
-**Today's Progress**: Set up testing and debugging in VSCode for my codingame projects.
+**Today's Progress**: Set up testing and debugging in VSCode for my codingame projects. F5 baby!!!
 
 **Thoughts** The debugger in VSCode is truly amazing. Not necessarily the easiest thing to configure when you have special cases like running jest on TypeScript code but still, I'm impressed.
 
