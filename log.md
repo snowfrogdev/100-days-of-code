@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 25: May 16, Thursday
+
+**Today's Progress**: Finally completed the solution to 'Bender - Episode 1'.
+
+**Thoughts** Found myself wondering when to use private vs public and wether or not getters and setters are an anti-pattern. Will have to investigate some more.
+
+### Link(s) to work
+
+1. [Bender - Episode 1](https://github.com/snowfrogdev/codingame/tree/master/bender-1)
+
 ## Day 24: May 15, Wednessday
 
 **Today's Progress**: Made really good progress with the 'Bender - Episode 1' today.
