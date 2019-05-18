@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 26: May 17, Friday
+
+**Today's Progress**: Worked on mine field kata.
+
+**Thoughts** I have a love-hate relationship with TDD. I like how it drives my design but at the same time I sometimes feel like I end up painting myself into a corner because of it. I too often realize, after working on something for an hour or two, that there is a much better design for what I'm trying to do and it wouldn't be too much work to just scrap my current solution and start from scratch but because of the work I put into building the test suite and the additional work required in building the new one, I stick with the not so great solution.
+
+### Link(s) to work
+
+1. [Mine Field Kata](https://github.com/snowfrogdev/katas/tree/master/mine-field)
+
 ## Day 25: May 16, Thursday
 
 **Today's Progress**: Finally completed the solution to 'Bender - Episode 1'.
