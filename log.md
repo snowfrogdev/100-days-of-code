@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 27: May 18, Saturday
+
+**Today's Progress**: Completed Mine Field kata. Refactored to use a functional solution with small mapping and reducer functions.
+
+**Thoughts** Man I love coding, but sometimes I get so frustrated when I have to task switch througout the day. Especially when working on solving more complex problems that involve math and algorithms. I hate having to stop midway picking it back up again later. I feel like I waste so much time reviewing what I had done previously.
+
+### Link(s) to work
+
+1. [Mine Field Kata](https://github.com/snowfrogdev/katas/tree/master/mine-field)
+
 ## Day 26: May 17, Friday
 
 **Today's Progress**: Worked on mine field kata.
