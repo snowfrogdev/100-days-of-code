@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 28: May 19, Sunday
+
+**Today's Progress**: Fooled around with subclassing JS primitives. Also tried my hand at C# today on [cyber-dojo.org](https://cyber-dojo.org).
+
+**Thoughts** Learning C# on cyber-dojo may not be the best idea as it's just a plain text editor. I think I might give it a try in VSCode or Visual Studio instead. Intellisense is a boon for discovering new Types and syntax.
+
+### Link(s) to work
+
+1. [MyString](https://github.com/snowfrogdev/codingame/tree/master/helpers)
+
 ## Day 27: May 18, Saturday
 
 **Today's Progress**: Completed Mine Field kata. Refactored to use a functional solution with small mapping and reducer functions.
