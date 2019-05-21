@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 29: May 20, Monday
+
+**Today's Progress**: So excited about this new puzzle on codingame.com. I have started implementing the main algorithm for [Seam Carving](https://www.codingame.com/training/medium/seam-carving).
+
+**Thoughts** Really struggling with TDD. I like the idea and principle of it but I almost always find myself at a point where it seems to make more sense to implement something in a private method, which means I can't test it in isolation. I do the next best thing which is test the public method that calls this private method but it seems like the whole red green refactor cycle gets stretched and I end up writing way too much code before I get to run a passing test. This is even worse when my public method encapsulates an algorithm that is implemented in 4 or 5 different private methods.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 28: May 19, Sunday
 
 **Today's Progress**: Fooled around with subclassing JS primitives. Also tried my hand at C# today on [cyber-dojo.org](https://cyber-dojo.org).
