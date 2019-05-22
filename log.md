@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 30: May 21, Tuesday
+
+**Today's Progress**: Worked on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
+
+**Thoughts** Today was hard. A lot of context switching and I couldn't figure out how to write some of my code using TDD. Spend two hours coding and not much to show for it. Very frustrating.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 29: May 20, Monday
 
 **Today's Progress**: So excited about this new puzzle on codingame.com. I have started implementing the main algorithm for [Seam Carving](https://www.codingame.com/training/medium/seam-carving).
