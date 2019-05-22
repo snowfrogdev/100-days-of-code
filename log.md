@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 31: May 22, Wednesdday
+
+**Today's Progress**: Made good progress on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
+
+**Thoughts** Received good pointers on how to do TDD with more complex algorithms. One of the reasons I was having a hard time using TDD with this problem is that I started with complex test case inputs. By reducing the complexity of the input, it allowed me to implement the algorithm more gradually. For instance, instead of using a 100 pixels by 100 pixels image as input, I started with a 1 pixel by 1 pixel, and then 2 pixel by 1 pixel etc.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 30: May 21, Tuesday
 
 **Today's Progress**: Worked on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
