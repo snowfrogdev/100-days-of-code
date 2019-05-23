@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 32: May 23, Thursday
+
+**Today's Progress**: Added the possibility to remove more than one seam at a time to my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm. Had to spend some time in the debugger and learned how to use conditional break points.
+
+**Thoughts** I'm learning to wield the power of the debugger more and more and moving away from console log debugging. It really is a powerful tool and quite enjoyable to use once you start to know what you're doing.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 31: May 22, Wednesdday
 
 **Today's Progress**: Made good progress on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
