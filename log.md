@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 33: May 24, Friday
+
+**Today's Progress**: On the road back from my workation for most of the day. Just had time to do a little bit of debuggind of my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm. I also mentored a few exercises on exercism.io.
+
+**Thoughts** This was the first day that I had to skip live streaming my coding session. I feel empty inside.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 32: May 23, Thursday
 
 **Today's Progress**: Added the possibility to remove more than one seam at a time to my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm. Had to spend some time in the debugger and learned how to use conditional break points.
