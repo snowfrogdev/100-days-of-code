@@ -1,8 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 34: May 25, Saturday
+
+**Today's Progress**: Worked a bit on my service reporter app. Resisted the urge to pull in a front-end framework and instead learned how to use
+`new URLSearchParams(window.location.search)` tp access url query parameters.
+
+**Thoughts** I hadn't worked on this repo in about 10 days. Context switching really is a b****, it took me longer than I thought it would just to figure out where I had left things and what to do next.
+
+### Link(s) to work
+
+1. [Service Reporter](https://github.com/snowfrogdev/service-reporter)
+
 ## Day 33: May 24, Friday
 
-**Today's Progress**: On the road back from my workation for most of the day. Just had time to do a little bit of debuggind of my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm. I also mentored a few exercises on exercism.io.
+**Today's Progress**: On the road back from my workation for most of the day. Just had time to do a little bit of debuggind of my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algorithm. I also mentored a few exercises on exercism.io.
 
 **Thoughts** This was the first day that I had to skip live streaming my coding session. I feel empty inside.
 
@@ -12,7 +23,7 @@
 
 ## Day 32: May 23, Thursday
 
-**Today's Progress**: Added the possibility to remove more than one seam at a time to my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm. Had to spend some time in the debugger and learned how to use conditional break points.
+**Today's Progress**: Added the possibility to remove more than one seam at a time to my [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algorithm. Had to spend some time in the debugger and learned how to use conditional break points.
 
 **Thoughts** I'm learning to wield the power of the debugger more and more and moving away from console log debugging. It really is a powerful tool and quite enjoyable to use once you start to know what you're doing.
 
@@ -22,7 +33,7 @@
 
 ## Day 31: May 22, Wednesdday
 
-**Today's Progress**: Made good progress on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
+**Today's Progress**: Made good progress on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algorithm.
 
 **Thoughts** Received good pointers on how to do TDD with more complex algorithms. One of the reasons I was having a hard time using TDD with this problem is that I started with complex test case inputs. By reducing the complexity of the input, it allowed me to implement the algorithm more gradually. For instance, instead of using a 100 pixels by 100 pixels image as input, I started with a 1 pixel by 1 pixel, and then 2 pixel by 1 pixel etc.
 
@@ -32,7 +43,7 @@
 
 ## Day 30: May 21, Tuesday
 
-**Today's Progress**: Worked on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algoritm.
+**Today's Progress**: Worked on the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) algorithm.
 
 **Thoughts** Today was hard. A lot of context switching and I couldn't figure out how to write some of my code using TDD. Spend two hours coding and not much to show for it. Very frustrating.
 
