@@ -2,13 +2,14 @@
 
 ## Day 35: May 27, Monday
 
-**Today's Progress**: Completed the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) puzzle on codingame.com.
+**Today's Progress**: Completed the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) puzzle on codingame.com. Learned a little about cron jobs while working on my service reporter app.
 
 **Thoughts** I learned a lot about debugging and the VS Code debugger while working on this puzzle. I feel like I've come out of this a much stronger developper.
 
 ### Link(s) to work
 
 1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+2. [Service Reporter](https://github.com/snowfrogdev/service-reporter)
 
 ## Day 34: May 25, Saturday
 
