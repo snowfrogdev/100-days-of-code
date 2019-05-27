@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 35: May 27, Monday
+
+**Today's Progress**: Completed the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) puzzle on codingame.com.
+
+**Thoughts** I learned a lot about debugging and the VS Code debugger while working on this puzzle. I feel like I've come out of this a much stronger developper.
+
+### Link(s) to work
+
+1. [Seam Carving](https://github.com/snowfrogdev/codingame/tree/master/seam-carving)
+
 ## Day 34: May 25, Saturday
 
 **Today's Progress**: Worked a bit on my service reporter app. Resisted the urge to pull in a front-end framework and instead learned how to use
-`new URLSearchParams(window.location.search)` tp access url query parameters.
+`new URLSearchParams(window.location.search)` to access url query parameters.
 
 **Thoughts** I hadn't worked on this repo in about 10 days. Context switching really is a b****, it took me longer than I thought it would just to figure out where I had left things and what to do next.
 
