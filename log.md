@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 37: May 29, Wednesday
+
+**Today's Progress**: Solved the [Rearrange string to two numbers](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers) puzzle on codingame.com.
+
+**Thoughts** I'm seriously starting to think about making a career change and going into programming full time. I love that s***!
+
+### Link(s) to work
+
+1. [Rearrange string to two numbers](https://github.com/snowfrogdev/codingame/tree/master/rearrange-string-to-two-numbers)
+
 ## Day 36: May 28, Tuesday
 
 **Today's Progress**: Started work on the [Rearrange string to two numbers](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers) puzzle on codingame.com. Looks simple enough when you read the short description... do not be deceived.
