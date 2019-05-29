@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 36: May 28, Tuesday
+
+**Today's Progress**: Started work on the [Rearrange string to two numbers](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers) puzzle on codingame.com. Looks simple enough when you read the short description... do not be deceived.
+
+**Thoughts** I love working on puzzles and algorithms but I find it harder to get motivated to work on some of my app ideas.
+
+### Link(s) to work
+
+1. [Rearrange string to two numbers](https://github.com/snowfrogdev/codingame/tree/master/rearrange-string-to-two-numbers)
+
 ## Day 35: May 27, Monday
 
 **Today's Progress**: Completed the [Seam Carving](https://www.codingame.com/training/medium/seam-carving) puzzle on codingame.com. Learned a little about cron jobs while working on my service reporter app.
