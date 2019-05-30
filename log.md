@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 38: May 30, Thursday
+
+**Today's Progress**: Completed the Pangram and Bob exercises on exercism.io. Pretty happy with my solutions. Instead of making a map keys representing every letter in the alphabet, I chose to iterate over the ASCII character codes with a for loop.
+
+**Thoughts** So it's decided. I want to make programming my full time occupation, but I want to work remote. If I'm going to make a career change that involves taking a salary cut, I atleast want to have the perk of being able to work from wherever I want.
+
+### Link(s) to work
+
+1. [Pangram](https://github.com/snowfrogdev/Exercism/tree/master/typescript/pangram)
+2. [Bob](https://github.com/snowfrogdev/Exercism/tree/master/typescript/bob)
+
 ## Day 37: May 29, Wednesday
 
 **Today's Progress**: Solved the [Rearrange string to two numbers](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers) puzzle on codingame.com.
