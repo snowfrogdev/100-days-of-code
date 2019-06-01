@@ -1,9 +1,5 @@
 # 100 Days Of Code - Log
 
-### Link(s) to work
-
-1. [Space Age](https://github.com/snowfrogdev/Exercism/tree/master/typescript/space-age)
-
 ## Day 40: June 1, Saturday
 
 **Today's Progress**: Refactored my solution to the 'Space Age' exercise on [exercism.io](https://exercism.io). I used an enum to store some constants that I had spread out in several methods.
@@ -12,8 +8,7 @@
 
 ### Link(s) to work
 
-1. [Skynet Revolution](https://github.com/snowfrogdev/codingame/tree/master/skynet-revolution-episode-1)
-2. [Array2D class](https://github.com/snowfrogdev/codingame/blob/master/helpers/array-2d.ts)
+1. [Space Age](https://github.com/snowfrogdev/Exercism/tree/master/typescript/space-age)
 
 ## Day 39: May 31, Friday
 
