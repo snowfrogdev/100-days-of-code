@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Link(s) to work
+
+1. [Space Age](https://github.com/snowfrogdev/Exercism/tree/master/typescript/space-age)
+
+## Day 40: June 1, Saturday
+
+**Today's Progress**: Refactored my solution to the 'Space Age' exercise on [exercism.io](https://exercism.io). I used an enum to store some constants that I had spread out in several methods.
+
+**Thoughts** I think I've said this before but ironically enough, I find it harder to get some coding in on the weekends than during the week. Something to keep in mind when planning my projects. I tend to think that I'll be able to spend a lot of time on my projects on the weekend but invariably I find myself busy with various social engagements and other responsabilities.
+
+### Link(s) to work
+
+1. [Skynet Revolution](https://github.com/snowfrogdev/codingame/tree/master/skynet-revolution-episode-1)
+2. [Array2D class](https://github.com/snowfrogdev/codingame/blob/master/helpers/array-2d.ts)
+
+## Day 39: May 31, Friday
+
+**Today's Progress**: Started the [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) puzzle on codingame.com. It involves graph theory and the breadth first search algorithm. Also worked on making a Array2D class as I have noticed that many of the puzzle I work on involve the use of 2D arrays and I'm getting tired of reimplementing them everytime. The class extends the built-in Array class and adds methods to lookup items immediately adjacent to a given position, in each of cardinal and intercardinal directions.
+
+**Thoughts** Forgot to log my activity before going to bed. Coding is fun... logging not so much... but I do see the value in doing it.
+
+### Link(s) to work
+
+1. [Skynet Revolution](https://github.com/snowfrogdev/codingame/tree/master/skynet-revolution-episode-1)
+2. [Array2D class](https://github.com/snowfrogdev/codingame/blob/master/helpers/array-2d.ts)
+
 ## Day 38: May 30, Thursday
 
 **Today's Progress**: Completed the Pangram and Bob exercises on exercism.io. Pretty happy with my solutions. Instead of making a map keys representing every letter in the alphabet, I chose to iterate over the ASCII character codes with a for loop.
