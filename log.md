@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 41: June 2, Sunday
+
+**Today's Progress**: Worked on customizing my Ghost blog's template. It uses [handlebars](https://handlebarsjs.com/) which I had never used but was easy enough to figure out thanks to the documentation and the fact that the syntax is very similar to the one used in Angular.
+
+**Thoughts** Some creative avoidance today. There are a few projects that I have started, and a few that I really should start, that aren't as fun as some of the other stuff I'm working on right now but would probably create more value and I found a way to busy myself with other things. It wasn't a complete waste though, I did write a new blog post.
+
+### Link(s) to work
+
+1. [Blog](https://blog.snowfrog.dev)
+
 ## Day 40: June 1, Saturday
 
 **Today's Progress**: Refactored my solution to the 'Space Age' exercise on [exercism.io](https://exercism.io). I used an enum to store some constants that I had spread out in several methods.
@@ -228,7 +238,7 @@
 
 **Today's Progress**: Solved the 'Order of Succession' puzzle on codingame.com. Got to use a tree data structure and depth first search algorithm. It had been a while. Also wrote up a blog article on the left shift bitwise operator.
 
-**Thoughts** Writing blog articles really doesn't come easy. I can't help but feel that every subject has already been thoroughly written about. Yet, it does help cement in my mind  things I have just learned.
+**Thoughts** Writing blog articles really doesn't come easy. I can't help but feel that every subject has already been thoroughly written about. Yet, it does help cement in my mind things I have just learned.
 
 ### Link(s) to work
 
