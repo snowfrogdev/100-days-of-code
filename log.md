@@ -2,13 +2,14 @@
 
 ## Day 42: June 3, Monday
 
-**Today's Progress**: Solved the [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) puzzle on codingame.com. Had to debug a problem where the codingame engine would not deal with an iterator properly. Once I converted it to an array, everything worked fine.
+**Today's Progress**: Solved the [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) puzzle on codingame.com. Had to debug a problem where the codingame engine would not deal with an iterator properly. Once I converted it to an array, everything worked fine. DO NOT USE ITERATORS IN CODINGAME. Also set up a test database for my Service Reporter project.
 
 **Thoughts** Live streaming my coding sessions is a lot of fun when I get to engage with other knowledgeable coders.
 
 ### Link(s) to work
 
 1. [Skynet Revolution](https://github.com/snowfrogdev/codingame/tree/master/skynet-revolution-episode-1)
+2. [Service Reporter](https://github.com/snowfrogdev/service-reporter)
 
 ## Day 41: June 2, Sunday
 
