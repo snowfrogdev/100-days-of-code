@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 42: June 3, Monday
+
+**Today's Progress**: Solved the [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) puzzle on codingame.com. Had to debug a problem where the codingame engine would not deal with an iterator properly. Once I converted it to an array, everything worked fine.
+
+**Thoughts** Live streaming my coding sessions is a lot of fun when I get to engage with other knowledgeable coders.
+
+### Link(s) to work
+
+1. [Skynet Revolution](https://github.com/snowfrogdev/codingame/tree/master/skynet-revolution-episode-1)
+
 ## Day 41: June 2, Sunday
 
 **Today's Progress**: Worked on customizing my Ghost blog's template. It uses [handlebars](https://handlebarsjs.com/) which I had never used but was easy enough to figure out thanks to the documentation and the fact that the syntax is very similar to the one used in Angular.
