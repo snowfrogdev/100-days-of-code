@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 43: June 4, Tuesday
+
+**Today's Progress**: Paired program with Steven T. Cramer on the [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com. Started implementing an interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com).
+
+**Thoughts** Man, writing an interpreter is some next level geek stuff and I love it. Also had a really fun time pair programming today. Must do it again soon.
+
+### Link(s) to work
+
+1. [Closest Number](https://github.com/snowfrogdev/codingame/tree/master/closest-number)
+2. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 42: June 3, Monday
 
 **Today's Progress**: Solved the [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) puzzle on codingame.com. Had to debug a problem where the codingame engine would not deal with an iterator properly. Once I converted it to an array, everything worked fine. DO NOT USE ITERATORS IN CODINGAME. Also set up a test database for my Service Reporter project.
