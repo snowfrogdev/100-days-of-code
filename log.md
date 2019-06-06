@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 44: June 5, Wednesday
+
+**Today's Progress**: Paired program with Steven T. Cramer again on the [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com. Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). I'm writing it in TypeScript and it's running in Node.js. I also did a bit of work modifying a Ghost blog template for a local non-profit.
+
+**Thoughts** I live coded on Twitch for about 1 hour and a half before I realized my mic was muted. I really need to come up with a pre-stream check list.
+
+### Link(s) to work
+
+1. [Closest Number](https://github.com/snowfrogdev/codingame/tree/master/closest-number)
+2. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 43: June 4, Tuesday
 
 **Today's Progress**: Paired program with Steven T. Cramer on the [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com. Started implementing an interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com).
