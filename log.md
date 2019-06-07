@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 45: June 6, Thursday
+
+**Today's Progress**: Solved [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com.
+
+**Thoughts** Enjoyed pair programming with Steve Cramer. It is a learned skill though. At one point I kind of got lost and I guess I didn't communicate that clearly. It made keeping up with the rest of the coding session a bit of a challenge. That's on me. In the future, I'll have to make sure that we put on the brakes if I can't keep up, and not be afraid to look dumb because I'm not 'getting it'.
+
+### Link(s) to work
+
+1. [Closest Number](https://github.com/snowfrogdev/codingame/tree/master/closest-number)
+
 ## Day 44: June 5, Wednesday
 
 **Today's Progress**: Paired program with Steven T. Cramer again on the [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com. Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). I'm writing it in TypeScript and it's running in Node.js. I also did a bit of work modifying a Ghost blog template for a local non-profit.
