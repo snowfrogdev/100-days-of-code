@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 46: June 7, Friday
+
+**Today's Progress**: Solved the [Last Crusade - Ep1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) puzzle on codingame.com. Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). The interpreter now deals with statements, assignement and scope.
+
+**Thoughts** Gosh darnit! It's impossible to have an original idea anymore. I stumbled on this free online book by Bob Nystrom called 'Crafting Interpreters'. The book is relatively new, in fact it's not even quite finished yet. So I got this great idea: I'm going to write an interpreter for the little language he invented for the book (Lox) - I mean, how many people are even going to do that - and then I'm going to write an extension for it in VS Code.
+
+I'm half way done with the interpreter and I'm about to test it on a .lox file  - .lox extension made sense but nowhere in the book does he suggest using that extension.
+
+As soon as I create the file, VS Code displays a pop up that says there is an extension that can help with .lox files. At that point I'm thinking 'Oh, there must be some other kind of language or program that uses that extension', so I click on it out of curiosity.... Grrrr!!! someone beat me to it. And looking at the changelog, by about 5 weeks. This is almost depressing.
+
+But I'm not giving up. The guy only did a syntax highlighter, I'm going to double down. That's right dberezin, I see your syntax highlighter and raise you a fullon language server, with autocomplete, error-checking, jump-to-definition etc... and then... a debugger.
+
+### Link(s) to work
+
+1. [Last Crusade - Ep1](https://github.com/snowfrogdev/codingame/tree/master/last-crusade-1)
+2. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 45: June 6, Thursday
 
 **Today's Progress**: Solved [Closest Number](https://www.codingame.com/training/hard/closest-number) puzzle on codingame.com.
