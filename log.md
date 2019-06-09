@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 47: June 8, Saturday
+
+**Today's Progress**: Barely got my hour in today. I beefed up my Array2D class by adding getIndices*Direction*Of() methods. I got the idea while working on the Last Crusade puzzle yesterday.
+
+**Thoughts** I'm running into a weird problem with Rollup where it throws and error when I import a class from a file that is higher up the hiarchy than the package root directory. Will have to look into this.
+
+### Link(s) to work
+
+1. [Array2D class](https://github.com/snowfrogdev/codingame/tree/master/helpers)
+
 ## Day 46: June 7, Friday
 
 **Today's Progress**: Solved the [Last Crusade - Ep1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) puzzle on codingame.com. Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). The interpreter now deals with statements, assignement and scope.
