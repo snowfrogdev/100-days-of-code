@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 48: June 9, Sunday
+
+**Today's Progress**: Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). The interpreter now deals with if statements, logical operators, while and for loops.
+
+**Thoughts** Have I mentioned before how much fun working on a programming language interepreter is? It's fun, so much fun.
+
+### Link(s) to work
+
+1. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 47: June 8, Saturday
 
 **Today's Progress**: Barely got my hour in today. I beefed up my Array2D class by adding getIndices*Direction*Of() methods. I got the idea while working on the Last Crusade puzzle yesterday.
 
-**Thoughts** I'm running into a weird problem with Rollup where it throws and error when I import a class from a file that is higher up the hiarchy than the package root directory. Will have to look into this.
+**Thoughts** I'm running into a weird problem with Rollup where it throws an error when I import a class from a file that is higher up the hierarchy than the package root directory. Will have to look into this.
 
 ### Link(s) to work
 
