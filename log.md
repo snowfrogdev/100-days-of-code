@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 49: June 10, Monday
+
+**Today's Progress**: Started the [Last Crusade - Ep2](https://www.codingame.com/training/hard/the-last-crusade-episode-2) puzzle on codingame.com. Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). Finished chapter 9 and the interpreter now deals with functions, including closures.
+
+**Thoughts** Had a bit of a frustrating moment today when I couldn't get Rollup to behave the way I wanted to. JS tooling can be so frustrating sometimes. The lack of convention can be quite problematic at times.
+
+### Link(s) to work
+
+1. [Last Crusade - Ep2](https://github.com/snowfrogdev/codingame/tree/master/last-crusade-2)
+2. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 48: June 9, Sunday
 
 **Today's Progress**: Worked some more on the interpreter for the Lox programming language described in Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com). The interpreter now deals with if statements, logical operators, while and for loops.
