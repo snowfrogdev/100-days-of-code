@@ -1,10 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 51: June 12, Wednesday
+
+**Today's Progress**: Solved the Perfect Numbers exercise on exercism.io. Worked through chapter 12 of Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com) and the interpreter now works with Classes.
+
+**Thoughts** The debugger is like magic. It's amazing how you freeze time and travel through your code at your own pace while examining the program's state every step of the way.
+
+### Link(s) to work
+
+1. [Perfect Numbers](https://github.com/snowfrogdev/Exercism/tree/master/typescript/perfect-numbers)
+2. [lox-ts](https://github.com/snowfrogdev/lox-ts)
+
 ## Day 50: June 11, Tuesday
 
 **Today's Progress**: Worked on the [Last Crusade - Ep2](https://www.codingame.com/training/hard/the-last-crusade-episode-2) puzzle on codingame.com. Worked through chapter 11 of Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com) which introduced a resolver for static scoping but it introduced some bugs and I have yet to figure out where the problem is.
 
-**Thoughts** Had a bit of a frustrating moment today when I couldn't get Rollup to behave the way I wanted to. JS tooling can be so frustrating sometimes. The lack of convention can be quite problematic at times.
+**Thoughts** Debugging late at night when you're tired is useless... just go to bed, you'll figure it out in the morning.
 
 ### Link(s) to work
 
