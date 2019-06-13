@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 52: June 13, Thursday
+
+**Today's Progress**: Solved the Luhn and Complex Numbers exercises on exercism.io.
+
+**Thoughts** Complex numbers are indeed complex. Thanks to Khan Academy for helping me understand them a little better.
+
+### Link(s) to work
+
+1. [Complex Numbers](https://github.com/snowfrogdev/Exercism/tree/master/typescript/complex-numbers)
+2. [Luhn](https://github.com/snowfrogdev/Exercism/tree/master/typescript/luhn)
+
 ## Day 51: June 12, Wednesday
 
 **Today's Progress**: Solved the Perfect Numbers exercise on exercism.io. Worked through chapter 12 of Bob Nystrom's excellent book [Crafting Interpreters](https://craftinginterpreters.com) and the interpreter now works with Classes.
