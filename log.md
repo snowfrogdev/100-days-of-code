@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 53: June 14, Friday
+
+**Today's Progress**: Solved the Sum of Multiples and Grains exercises on exercism.io.
+
+**Thoughts** Solved Grains using recursiveness and the with math. Recursive functions are cool, but not the most performant.
+
+### Link(s) to work
+
+1. [Sum of Multiples](https://github.com/snowfrogdev/Exercism/tree/master/typescript/sum-of-multiples)
+2. [Grains](https://github.com/snowfrogdev/Exercism/tree/master/typescript/grains)
+
 ## Day 52: June 13, Thursday
 
 **Today's Progress**: Solved the Luhn and Complex Numbers exercises on exercism.io.
