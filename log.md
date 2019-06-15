@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 54: June 15, Saturday
+
+**Today's Progress**: Added a generic Collection interface and abstract class to my helper functions.
+
+**Thoughts** Didn't have much time to code today.
+
+### Link(s) to work
+
+1. [Collection](https://github.com/snowfrogdev/codingame/blob/master/helpers/collection.ts)
+
 ## Day 53: June 14, Friday
 
 **Today's Progress**: Solved the Sum of Multiples and Grains exercises on exercism.io.
