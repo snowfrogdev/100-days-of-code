@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 55: June 17, Monday
+
+**Today's Progress**: Completed the Pythagorean Triplet exercise on exercism.io.
+
+**Thoughts** Took the day off yesterday. Needed a mental break. Spent some time with friends and played video games.
+
+### Link(s) to work
+
+1. [Pythagorean Triplet](https://github.com/snowfrogdev/Exercism/tree/master/typescript/pythagorean-triplet)
+
 ## Day 54: June 15, Saturday
 
 **Today's Progress**: Added a generic Collection interface and abstract class to my helper functions.
