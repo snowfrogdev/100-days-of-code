@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 56: June 18, Tuesday
+
+**Today's Progress**: Implemented Stack and Queue data structures in my Collections library.
+
+**Thoughts** Considered implementing a Linked List but I don't really think there is a use case for it in JavaScript seeing how most popular JavaScript engines have super optimized the built-in Array.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 55: June 17, Monday
 
 **Today's Progress**: Completed the Pythagorean Triplet exercise on exercism.io.
