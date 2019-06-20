@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 57: June 19, Wednesday
+
+**Today's Progress**: Tested performance of SortedMap vs JS built-in Map. I was thinking of maybe implementing a SortedMap using a binary search tree but when I compared other JS implementations against the buil-in Map it didn't look like there was any advantage to do that.
+
+**Thoughts** Nothing much to say here today.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 56: June 18, Tuesday
 
 **Today's Progress**: Implemented Stack and Queue data structures in my Collections library.
