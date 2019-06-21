@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 58: June 20, Thursday
+
+**Today's Progress**: After some further performance testing and research, decided it would be worth implementing a SortedMap and SortedSet backed by a binary search tree. They don't beat a hash table for sets and gets but they allow for more efficient range queries.
+
+**Thoughts** I have a three day conference coming up and it's going to be a real challenge to get my coding in.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 57: June 19, Wednesday
 
 **Today's Progress**: Tested performance of SortedMap vs JS built-in Map. I was thinking of maybe implementing a SortedMap using a binary search tree but when I compared other JS implementations against the buil-in Map it didn't look like there was any advantage to do that.
