@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 59: June 21, Friday
+
+**Today's Progress**: Toyed with WAVL tree implementation.
+
+**Thoughts** Barely got my hour of code in today... but I did.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 58: June 20, Thursday
 
 **Today's Progress**: After some further performance testing and research, decided it would be worth implementing a SortedMap and SortedSet backed by a binary search tree. They don't beat a hash table for sets and gets but they allow for more efficient range queries.
