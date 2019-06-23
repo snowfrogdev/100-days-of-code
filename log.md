@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 60: June 22, Friday
+
+**Today's Progress**: Took a step back from WAVL trees and decided to implement a generic binary tree.
+
+**Thoughts** I know I've said this before but this weekend really showed me that context switching sucks. It feels like coding for only an hour is almost like not coding at all.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 59: June 21, Friday
 
 **Today's Progress**: Toyed with WAVL tree implementation.
