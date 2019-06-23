@@ -4,7 +4,7 @@
 
 **Today's Progress**: Took a step back from WAVL trees and decided to implement a generic binary tree.
 
-**Thoughts** I know I've said this before but this weekend really showed me that context switching sucks. It feels like coding for only an hour is almost like not coding at all.
+**Thoughts** I know I've said this before but this weekend really showed me that context switching sucks. It feels like coding for only an hour is almost like not coding at all. So I coded for two and half hours and went to bed late. Tomorrow morning is going to be painful.
 
 ### Link(s) to work
 
