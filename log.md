@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-## Day 60: June 22, Friday
+## Day 61: June 23, Sunday
+
+**Today's Progress**: Decided to make my generic binary tree class into an abstract class. Binary search tree implementations will extend it. Found this [cool visualization library](https://visjs.org/). Looking forward to trying it to visualize the inner working of my data structures.
+
+**Thoughts** Sooooooo tiiiiiiiirrrrreeeedd!!!
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
+## Day 60: June 22, Saturday
 
 **Today's Progress**: Took a step back from WAVL trees and decided to implement a generic binary tree.
 
