@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 62: June 24, Monday
+
+**Today's Progress**: Started implementing the Binary Search Tree class. I got the insertion method done. Implemented a `Comparable` interface to make it flexible.
+
+**Thoughts** Last day of the long weekend and frankly I can't wait to get back to my routine.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 61: June 23, Sunday
 
 **Today's Progress**: Decided to make my generic binary tree class into an abstract class. Binary search tree implementations will extend it. Found this [cool visualization library](https://visjs.org/). Looking forward to trying it to visualize the inner working of my data structures.
