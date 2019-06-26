@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 63: June 25, Tuesday
+
+**Today's Progress**: Implemented the deletion algorithm for my binary search tree class. A little more complex than I thought, especially for nodes with 2 children, but it works like a charm.
+
+**Thoughts** As I'm now seriously thinking about applying for programming job I find myself wondering what kind of projects I should pursue in order to showcase my abilities.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 62: June 24, Monday
 
 **Today's Progress**: Started implementing the Binary Search Tree class. I got the insertion method done. Implemented a `Comparable` interface to make it flexible.
