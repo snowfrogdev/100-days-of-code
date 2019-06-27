@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 64: June 26, Wednesday
+
+**Today's Progress**: Optimized the insertion method of the Binary Search Tree in my collections library.
+
+**Thoughts** Logging my activity everyday and posting it to Twitter is starting to feel like a chore. I'm trying to make my logs and posts interesting and it takes me too long to do. Going forward, I won't worry too much about because otherwise I'll find my self resenting it.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 63: June 25, Tuesday
 
 **Today's Progress**: Implemented the deletion algorithm for my binary search tree class. A little more complex than I thought, especially for nodes with 2 children, but it works like a charm.
