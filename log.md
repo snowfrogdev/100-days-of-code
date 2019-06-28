@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 65: June 27, Thursday
+
+**Today's Progress**: Optimized the remove and search methods of the Binary Search Tree in my collections library.
+
+**Thoughts** I often end up coding in the morning and then again in the evening. Having to take 10 minutes every night to log my activity and post to Twitter is kind of a drag. Maybe I should just log after my morning sessions and include what I did in the PM the previous day.
+
+### Link(s) to work
+
+1. [Collections](https://github.com/snowfrogdev/collections-ts)
+
 ## Day 64: June 26, Wednesday
 
 **Today's Progress**: Optimized the insertion method of the Binary Search Tree in my collections library.
