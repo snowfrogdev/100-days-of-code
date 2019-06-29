@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 66: June 28, Friday
+
+**Today's Progress**: Started work on a 7 Wonders game engine in Node.js. Had a great time on Twitch and got some good pointers from #sleeplessbytes and others.
+
+**Thoughts** There is so much I have yet to learn but it's interesting how it seems to get easier and easier to take on new knowledge and concepts. The more I learn, the easier it is to learn.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 65: June 27, Thursday
 
 **Today's Progress**: Optimized the remove and search methods of the Binary Search Tree in my collections library.
