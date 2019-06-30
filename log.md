@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 67: June 29, Saturday
+
+**Today's Progress**: Found a excel file with all of 7 Wonders's cards charateristics. Converted those to CSVs to use in my 7 Wonders game engine. Probably saved myself a few hours of work. Started implementing the game setup phase.
+
+**Thoughts** I've been learning a lot live coding on Twitch and interacting with other devs. Makes me realize that I would probably grow much faster as a developer if I worked as part of a team for a while.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 66: June 28, Friday
 
 **Today's Progress**: Started work on a 7 Wonders game engine in Node.js. Had a great time on Twitch and got some good pointers from #sleeplessbytes and others.
