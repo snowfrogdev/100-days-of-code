@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 68: June 30, Sunday
+
+**Today's Progress**: Worked on AI player name generation and player supplied name validation for my 7 Wonders game engine.
+
+**Thoughts** My head is empty.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 67: June 29, Saturday
 
-**Today's Progress**: Found a excel file with all of 7 Wonders's cards charateristics. Converted those to CSVs to use in my 7 Wonders game engine. Probably saved myself a few hours of work. Started implementing the game setup phase.
+**Today's Progress**: Found an excel file on boardgamegeek.com with all of 7 Wonders's cards' charateristics. Converted those to CSVs to use in my 7 Wonders game engine. Probably saved myself a few hours of work. Started implementing the game setup phase.
 
 **Thoughts** I've been learning a lot live coding on Twitch and interacting with other devs. Makes me realize that I would probably grow much faster as a developer if I worked as part of a team for a while.
 
