@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 69: July 1, Monday
+
+**Today's Progress**: Worked on a .CSV parser to get card data into my 7 Wonders game engine. Refactored my solution to the "Bob" exercise on exercism.io.
+
+**Thoughts** I've been thinking alot about how to find the right level of abstraction when solving problems with code. Easier said then done. Striking a balance between pragmatism, meaningfulness, readability and reusability is not easy.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+2. [Bob](https://github.com/snowfrogdev/Exercism/tree/master/typescript/bob)
+
 ## Day 68: June 30, Sunday
 
 **Today's Progress**: Worked on AI player name generation and player supplied name validation for my 7 Wonders game engine.
