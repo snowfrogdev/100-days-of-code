@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 70: July 2, Tuesday
+
+**Today's Progress**: Implemented functions to generate Wonder cards and Constructions cards in my 7 Wonders game engine.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 69: July 1, Monday
 
 **Today's Progress**: Worked on a .CSV parser to get card data into my 7 Wonders game engine. Refactored my solution to the "Bob" exercise on exercism.io.
