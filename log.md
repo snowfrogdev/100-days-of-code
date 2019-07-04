@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 71: July 3, Wednesday
+
+**Today's Progress**: Worked on implementing a card deck shuffler using the [Fisher–Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle).
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 70: July 2, Tuesday
 
 **Today's Progress**: Implemented functions to generate Wonder cards and Constructions cards in my 7 Wonders game engine.
