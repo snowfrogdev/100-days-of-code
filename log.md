@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 72: July 4, Thursday
+
+**Today's Progress**: Had fun visualizing the randomness of Math.random using the HTML Canvas.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/random)
+
 ## Day 71: July 3, Wednesday
 
 **Today's Progress**: Worked on implementing a card deck shuffler using the [Fisher–Yates algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle).
