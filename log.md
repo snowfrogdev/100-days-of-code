@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+## Day 75: July 7, Sunday
+
+**Today's Progress**: My 7 Wonders game engine now has the mechanism in place to step through turns and ages. Next up: discarding and earning coins.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
+## Day 74: July 6, Saturday
+
+**Today's Progress**: Played around with Perlin Noise some more.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Random](https://github.com/snowfrogdev/random)
+
+## Day 73: July 5, Friday
+
+**Today's Progress**: Played with Perlin Noise.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Random](https://github.com/snowfrogdev/random)
+
 ## Day 72: July 4, Thursday
 
 **Today's Progress**: Had fun visualizing the randomness of Math.random using the HTML Canvas.
@@ -8,7 +38,7 @@
 
 ### Link(s) to work
 
-1. [7 wonders](https://github.com/snowfrogdev/random)
+1. [Random](https://github.com/snowfrogdev/random)
 
 ## Day 71: July 3, Wednesday
 
