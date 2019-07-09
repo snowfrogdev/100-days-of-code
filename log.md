@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 76: July 8, Monday
+
+**Today's Progress**: Implemented dicarding and earning coins in my 7 Wonders game engine. Also played around with visualizing random number generation with a normal distribution.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+2. [Random](https://github.com/snowfrogdev/random)
+
 ## Day 75: July 7, Sunday
 
 **Today's Progress**: My 7 Wonders game engine now has the mechanism in place to step through turns and ages. Next up: discarding and earning coins.
