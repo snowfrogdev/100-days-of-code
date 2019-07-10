@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 77: July 9, Tuesday
+
+**Today's Progress**: Looked into generating bounded random Pareto numbers, couldn't get it to work. Refactored my solution to the Pangram exercise, and worked on a solution to the Twelve Days and Pig Latin exercises, on exercism.io.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Random](https://github.com/snowfrogdev/random)
+2. [exercism](https://github.com/snowfrogdev/exercism)
+
 ## Day 76: July 8, Monday
 
 **Today's Progress**: Implemented dicarding and earning coins in my 7 Wonders game engine. Also played around with visualizing random number generation with a normal distribution.
