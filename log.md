@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 78: July 10, Wednesday
+
+**Today's Progress**: Finally got my random Pareto number generator visualization working. Refactored my solution to the Pig Latin exercise on exercism.io and implemented a Victory Points Counter class in my 7 Wonders game engine.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Random](https://github.com/snowfrogdev/random)
+2. [exercism](https://github.com/snowfrogdev/exercism)
+3. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 77: July 9, Tuesday
 
 **Today's Progress**: Looked into generating bounded random Pareto numbers, couldn't get it to work. Refactored my solution to the Pangram exercise, and worked on a solution to the Twelve Days and Pig Latin exercises, on exercism.io.
