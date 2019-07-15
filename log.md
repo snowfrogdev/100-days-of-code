@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 79-82: July 14, Sunday
+
+**Today's Progress**: Worked on solutions to the Isogram, Roman Numerals and Series exercises on exercism.io.
+
+**Thoughts** I coded about an hour every day between July 10 and 14 but I forgot to log and Tweet.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+
 ## Day 78: July 10, Wednesday
 
 **Today's Progress**: Finally got my random Pareto number generator visualization working. Refactored my solution to the Pig Latin exercise on exercism.io and implemented a Victory Points Counter class in my 7 Wonders game engine.
