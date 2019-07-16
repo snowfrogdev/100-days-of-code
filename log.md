@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 83: July 15, Monday
+
+**Today's Progress**: Implemented game end mechanics in my 7 Wonders game engine and tried (and probably failed) to decouple my backend from my frontend code using interfaces and dependency injection.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [7 wonders](https://github.com/snowfrogdev/seven-wonders)
+
 ## Day 79-82: July 14, Sunday
 
 **Today's Progress**: Worked on solutions to the Isogram, Roman Numerals and Series exercises on exercism.io.
