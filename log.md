@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 85: July 17, Wednesday
+
+**Today's Progress**: Worked on solutions to the Phone Number and Largest Series Product exercises on exercism.io. TIL that you can implement a [Symbol.iterator] function as a generator function, saving you the trouble of returning an object that conforms to the iterator protocol.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+
+
 ## Day 84: July 16, Tuesday
 
 **Today's Progress**: Worked on solutions to the Acronym and Anagram exercises on exercism.io.
