@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+## Day 87-89: July 21, Sunday
+
+**Today's Progress**: Worked on solutions to different exercise on exercism.io, but mainly spent sometime getting familiar with Blazor and Blazor-State.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+
+
 ## Day 86: July 18, Thursday
 
 **Today's Progress**: Worked on solutions to the Two Bucket exercise on exercism.io.
+
 **Thoughts** Nothing to report.
 
 ### Link(s) to work
