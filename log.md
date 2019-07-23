@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-## Day 87-89: July 21, Sunday
+## Day 90: July 22, Monday
 
-**Today's Progress**: Worked on solutions to different exercise on exercism.io, but mainly spent sometime getting familiar with Blazor and Blazor-State.
+**Today's Progress**: Worked on implementing a Variable Length Quantity encoder and decoder. I think I've used bitwise operators more today than I did in all of the past 3 years.
 
 **Thoughts** Nothing to report.
 
@@ -10,6 +10,15 @@
 
 1. [exercism](https://github.com/snowfrogdev/exercism)
 
+## Day 87-89: July 21, Sunday
+
+**Today's Progress**: Worked on solutions to different exercise on exercism.io, but mainly spent some time getting familiar with Blazor and Blazor-State.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
 
 ## Day 86: July 18, Thursday
 
