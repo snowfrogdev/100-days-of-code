@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 91: July 23, Tuesday
+
+**Today's Progress**: Worked on the Matrix and ISBN Verifier exercises on exercism.io. I close my eyes and still see Regular Expressions.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+
 ## Day 90: July 22, Monday
 
 **Today's Progress**: Worked on implementing a Variable Length Quantity encoder and decoder. I think I've used bitwise operators more today than I did in all of the past 3 years.
