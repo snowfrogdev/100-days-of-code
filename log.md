@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 92: July 24, Wednesday
+
+**Today's Progress**: Worked on the Proverb and House exercises on exercism.io. That's enough creepy nursury rhymes for one day.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+
 ## Day 91: July 23, Tuesday
 
 **Today's Progress**: Worked on the Matrix and ISBN Verifier exercises on exercism.io. I close my eyes and still see Regular Expressions.
