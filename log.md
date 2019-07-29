@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+## Day 93-96: July 28, Sunday
+
+**Today's Progress**: Worked on the Beer Song and Say exercises on exercism.io. Also worked on optimizing my Ultimate-Tic-Tac-Toe AI bot for codingame.com.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [exercism](https://github.com/snowfrogdev/exercism)
+2. [Ultimate Tic Tac Toe](https://github.com/snowfrogdev/codingame/tree/master/ultimate-tic-tac-toe)
+
 ## Day 92: July 24, Wednesday
 
 **Today's Progress**: Worked on the Proverb and House exercises on exercism.io. That's enough creepy nursury rhymes for one day.
