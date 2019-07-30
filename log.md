@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 97: July 29, Monday
+
+**Today's Progress**: Worked on my Ultimate-Tic-Tac-Toe AI bot for codingame.com. Bitboards and bitmasks are the shiz. Of course, my code is now an incomprehensible mess...
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Ultimate Tic Tac Toe](https://github.com/snowfrogdev/codingame/tree/master/ultimate-tic-tac-toe)
+
 ## Day 93-96: July 28, Sunday
 
 **Today's Progress**: Worked on the Beer Song and Say exercises on exercism.io. Also worked on optimizing my Ultimate-Tic-Tac-Toe AI bot for codingame.com.
