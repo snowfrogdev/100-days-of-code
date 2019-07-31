@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 98: July 29, Monday
+
+**Today's Progress**: Have you ever implemented a Monte Carlo Tree Search algorithm? Don't! I have, and now I'm left with an uncontrollable twitch in my right eye. But seriously, it's a lot of fun, if not exactly trivial. Yes, I'm still working on my Ultimate-Tic-Tac-Toe AI bot for codingame.com.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Ultimate Tic Tac Toe](https://github.com/snowfrogdev/codingame/tree/master/ultimate-tic-tac-toe)
+
 ## Day 97: July 29, Monday
 
 **Today's Progress**: Worked on my Ultimate-Tic-Tac-Toe AI bot for codingame.com. Bitboards and bitmasks are the shiz. Of course, my code is now an incomprehensible mess...
