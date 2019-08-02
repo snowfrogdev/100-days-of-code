@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 99 - 100: July 31, Wednesday
+
+**Today's Progress**: Setting up debugging TypeScript Jest tests in VS Code is a ~~?@$%&*! nightmare~~ pure joy. I feel a blog post coming on. Worked on my Ultimate-Tic-Tac-Toe AI bot for codingame.com.
+
+**Thoughts** Nothing to report.
+
+### Link(s) to work
+
+1. [Ultimate Tic Tac Toe](https://github.com/snowfrogdev/codingame/tree/master/ultimate-tic-tac-toe)
+
 ## Day 98: July 29, Monday
 
 **Today's Progress**: Have you ever implemented a Monte Carlo Tree Search algorithm? Don't! I have, and now I'm left with an uncontrollable twitch in my right eye. But seriously, it's a lot of fun, if not exactly trivial. Yes, I'm still working on my Ultimate-Tic-Tac-Toe AI bot for codingame.com.
